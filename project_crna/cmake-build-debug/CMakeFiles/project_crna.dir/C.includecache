@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/User/CLionProjects/project_crna/SpreaderDetectorBackend.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+SpreaderDetectorParams.h
+/cygdrive/c/Users/User/CLionProjects/project_crna/SpreaderDetectorParams.h
+
+/cygdrive/c/Users/User/CLionProjects/project_crna/SpreaderDetectorParams.h
+
